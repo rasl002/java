@@ -84,11 +84,11 @@ class Main {
     }
 
     public static void main(String[] args) {
-         first();
+        //first();
         // second();
         // third(args);
         // fourth();
-//        five();
+        //five();
     }
 
 
